@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **iportill@student.42urduliz.com**
 
-- 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/iportill/)
+- 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/iker-portillo/)
 
 
 
