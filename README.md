@@ -1,5 +1,5 @@
-<h1 align="center">Hola me llamo Iker</h1>
-<h3 align="center">Soy un desallorador de Bilbao, enfocado en ser desarrollador de IA </h3>
+<h1 align="center">Hello my name is Iker</h1>
+<h3 align="center">I am a developer from Bilbao, focused on become an AI developer </h3>
 <div id="badges"><img src="https://komarev.com/ghpvc/?username=Iportill2&style=flat-square&color=red" alt=""/></div>
 
 - 🔭 Actualmente estoy en **42 School Common Core**
