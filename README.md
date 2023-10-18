@@ -6,7 +6,7 @@
 
 [![Iportill's 42 stats](https://profile.intra.42.fr/users/iportill)
 
-- 🌱 I’m currently learning **C y Python**
+- 🌱 I’m doing proyects in **C y Python**
 
 - 📫 How to reach me **iportill@student.42urduliz.com**
 
