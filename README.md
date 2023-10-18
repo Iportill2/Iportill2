@@ -2,7 +2,7 @@
 <h3 align="center">I am a developer from Bilbao, focused on become an AI developer </h3>
 <div id="badges"><img src="https://komarev.com/ghpvc/?username=Iportill2&style=flat-square&color=red" alt=""/></div>
 
-- 🔭 Actualmente estoy en **42 School Common Core**
+- 🔭 I am currently in  **42 School Common Core**
 
 [![Iportill's 42 stats](https://profile.intra.42.fr/users/iportill)
 
