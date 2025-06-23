@@ -1,4 +1,3 @@
-<!-- Header animado con IA -->
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Iker+%F0%9F%91%8B;AI+focused+developer+from+Bilbao;42+Urduliz+graduate+%F0%9F%8E%93;C%2C+Python+%26+Low-Level+enthusiast" alt="Typing SVG" />
   </p>
@@ -27,7 +26,18 @@
   <!-- Iconos adicionales que no están en skillicons -->
   <p align="center">
     <!-- Drupal icon -->
-    <img src="https://www.drupal.org/files/Wordmark_blue_RGB.png" height="40" alt="Drupal" />
+    <img src="https://www.drupal.org/sites/default/files/druplicon-small.png" height="40" alt="Drupal" />
+    <!-- DDEV icon -->
+    <img src="https://avatars.githubusercontent.com/u/24293384" height="40" alt="DDEV" />
+  </p>
+  
+  ---
+  
+  ### 📊 GitHub Stats
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iportill2&layout=compact&theme=radical" />
+  </p>
+  g" height="40" alt="Drupal" />
     <!-- DDEV icon -->
     <img src="https://ddev.readthedocs.io/en/stable/_static/ddev-logo.png" height="40" alt="DDEV" />
   </p>
