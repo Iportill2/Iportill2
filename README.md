@@ -19,8 +19,8 @@
 
 <h3> Languages , Libraries and Frameworks</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,django,html,css,bootstrap,wordpress" />
-  <img src="https://es.wikipedia.org/wiki/Drupal#/media/Archivo:Druplicon.vector.svg" height="40" alt="Drupal" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,django,js,html,css,bootstrap,wordpress" />
+  <img src="https://cdn.simpleicons.org/drupal/0678BE" height="40" alt="Drupal" />
 </p>
 ---
 <h3> DataBases</h3>
