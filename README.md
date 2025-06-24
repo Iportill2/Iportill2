@@ -26,7 +26,7 @@
   <!-- Iconos adicionales que no están en skillicons -->
   <p align="center">
     <!-- Drupal icon -->
-    <img src="https://www.drupal.org/sites/default/files/druplicon-small.png" height="40" alt="Drupal" />
+    <img src="https://www.drupal.org/sites/default/files/druplicon-small.png](https://images.seeklogo.com/logo-png/40/1/drupal-logo-png_seeklogo-407543.png" height="40" alt="Drupal" />
     <!-- DDEV icon -->
      <img src="https://www.drupal.org/files/styles/grid-2-2x-square/public/announcements/DDEV.png?itok=6wqhC_DG" height="40" alt="DDEV" />
   </p>
