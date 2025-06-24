@@ -42,11 +42,6 @@
     <img src="https://ddev.readthedocs.io/en/stable/_static/ddev-logo.png" height="40" alt="DDEV" />
   </p>
   
-  ---
-  
-  ### 📊 GitHub Stats
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iportill2&layout=compact&theme=radical" />
-  </p>
+
   
 
