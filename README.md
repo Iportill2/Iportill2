@@ -15,6 +15,10 @@
 
 
 <hr>
+  <p align="center">
+      <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/iportill?1337Badge=off&UM6P=off" alt="iportill's 42 stats" /></a>
+    </p>
+
 
 <h3>🛠️ Tech Stack</h3>
 
