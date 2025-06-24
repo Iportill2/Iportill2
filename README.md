@@ -28,7 +28,7 @@
     <!-- Drupal icon -->
     <img src="https://www.drupal.org/sites/default/files/druplicon-small.png" height="40" alt="Drupal" />
     <!-- DDEV icon -->
-    <img src="https://avatars.githubusercontent.com/u/24293384" height="40" alt="DDEV" />
+     <img src="https://www.drupal.org/files/styles/grid-2-2x-square/public/announcements/DDEV.png?itok=6wqhC_DG" height="40" alt="DDEV" />
   </p>
   
   ---
