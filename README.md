@@ -1,23 +1,6 @@
-
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=200&color=F7F7F7&center=true&vCenter=true&width=500&height=75&lines=Hi+there!+I'm+Iker+%F0%9F%91%8B" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&height=120&lines=Hi+there!+I'm+Iker+%F0%9F%91%8B;AI+focused+developer+from+Bilbao;42+Urduliz+graduate+%F0%9F%8E%93;C%2C+Python+%26+Low-Level+enthusiast" alt="Typing SVG" />
 </p>
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=200&color=F7F7F7&center=true&vCenter=true&width=500&height=75&lines=AI+focused+developer+from+Bilbao" alt="Typing SVG" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=200&color=F7F7F7&center=true&vCenter=true&width=500&height=75&lines=42+Urduliz+graduate+%F0%9F%8E%93" alt="Typing SVG" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=200&color=F7F7F7&center=true&vCenter=true&width=500&height=75&lines=C%2C+Python+%26+Low-Level+enthusiast" alt="Typing SVG" />
-  </a>
 </p>
 
 ---
