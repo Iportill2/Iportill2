@@ -94,70 +94,70 @@
 <h4>C++ Projects</h4>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <div style="text-align: center; width: 120px;">
-    <a href="https://github.com/Iportill2/CPP-Modules" title="CPP Module 00">
+    <a href="https://github.com/Iportill2/CPP00" title="CPP Module 00">
       <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="50" height="50" alt="CPP Module 00" style="margin-bottom: 8px;"><br>
       <strong>CPP Module 00</strong><br>
       <span style="color: #58a6ff;">100/100</span>
     </a>
   </div>
   <div style="text-align: center; width: 120px;">
-    <a href="https://github.com/Iportill2/CPP-Modules" title="CPP Module 01">
+    <a href="https://github.com/Iportill2/CPP01" title="CPP Module 01">
       <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="50" height="50" alt="CPP Module 01" style="margin-bottom: 8px;"><br>
       <strong>CPP Module 01</strong><br>
       <span style="color: #58a6ff;">100/100</span>
     </a>
   </div>
   <div style="text-align: center; width: 120px;">
-    <a href="https://github.com/Iportill2/CPP-Modules" title="CPP Module 02">
+    <a href="https://github.com/Iportill2/CPP02" title="CPP Module 02">
       <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="50" height="50" alt="CPP Module 02" style="margin-bottom: 8px;"><br>
       <strong>CPP Module 02</strong><br>
       <span style="color: #58a6ff;">100/100</span>
     </a>
   </div>
   <div style="text-align: center; width: 120px;">
-    <a href="https://github.com/Iportill2/CPP-Modules" title="CPP Module 03">
+    <a href="https://github.com/Iportill2/CPP03" title="CPP Module 03">
       <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="50" height="50" alt="CPP Module 03" style="margin-bottom: 8px;"><br>
       <strong>CPP Module 03</strong><br>
       <span style="color: #58a6ff;">100/100</span>
     </a>
   </div>
   <div style="text-align: center; width: 120px;">
-    <a href="https://github.com/Iportill2/CPP-Modules" title="CPP Module 04">
+    <a href="https://github.com/Iportill2/CPP04" title="CPP Module 04">
       <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="50" height="50" alt="CPP Module 04" style="margin-bottom: 8px;"><br>
       <strong>CPP Module 04</strong><br>
       <span style="color: #58a6ff;">100/100</span>
     </a>
   </div>
   <div style="text-align: center; width: 120px;">
-    <a href="https://github.com/Iportill2/CPP-Modules" title="CPP Module 05">
+    <a href="https://github.com/Iportill2/CPP05" title="CPP Module 05">
       <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="50" height="50" alt="CPP Module 05" style="margin-bottom: 8px;"><br>
       <strong>CPP Module 05</strong><br>
       <span style="color: #58a6ff;">100/100</span>
     </a>
   </div>
   <div style="text-align: center; width: 120px;">
-    <a href="https://github.com/Iportill2/CPP-Modules" title="CPP Module 06">
+    <a href="https://github.com/Iportill2/CPP06" title="CPP Module 06">
       <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="50" height="50" alt="CPP Module 06" style="margin-bottom: 8px;"><br>
       <strong>CPP Module 06</strong><br>
       <span style="color: #58a6ff;">100/100</span>
     </a>
   </div>
   <div style="text-align: center; width: 120px;">
-    <a href="https://github.com/Iportill2/CPP-Modules" title="CPP Module 07">
+    <a href="https://github.com/Iportill2/CPP07" title="CPP Module 07">
       <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="50" height="50" alt="CPP Module 07" style="margin-bottom: 8px;"><br>
       <strong>CPP Module 07</strong><br>
       <span style="color: #58a6ff;">100/100</span>
     </a>
   </div>
   <div style="text-align: center; width: 120px;">
-    <a href="https://github.com/Iportill2/CPP-Modules" title="CPP Module 08">
+    <a href="https://github.com/Iportill2/CPP08" title="CPP Module 08">
       <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="50" height="50" alt="CPP Module 08" style="margin-bottom: 8px;"><br>
       <strong>CPP Module 08</strong><br>
       <span style="color: #58a6ff;">100/100</span>
     </a>
   </div>
   <div style="text-align: center; width: 120px;">
-    <a href="https://github.com/Iportill2/CPP-Modules" title="CPP Module 09">
+    <a href="https://github.com/Iportill2/CPP09" title="CPP Module 09">
       <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="50" height="50" alt="CPP Module 09" style="margin-bottom: 8px;"><br>
       <strong>CPP Module 09</strong><br>
       <span style="color: #58a6ff;">100/100</span>
