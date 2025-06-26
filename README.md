@@ -213,7 +213,7 @@
 <h4>Web Projects</h4>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <div style="text-align: center; width: 120px;">
-    <a href="https://github.com/Iportill2/Webserv" title="Webserv">
+    <a href="https://github.com/Iportill2/WebServer" title="Webserv">
       <img src="https://cdn.simpleicons.org/nginx/009639" width="50" height="50" alt="Webserv" style="margin-bottom: 8px;"><br>
       <strong>Webserv</strong><br>
       <span style="color: #58a6ff;">106/125</span>
