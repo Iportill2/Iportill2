@@ -54,7 +54,7 @@
           </a>
         </div>
         <div style="text-align: center; width: 120px;">
-          <a href="https://github.com/Iportill2/get_next_line" title="Get Next Line">
+          <a href="[https://github.com/Iportill2/get_next_line](https://github.com/Iportill2/GetNextLine)" title="Get Next Line">
             <img src="https://cdn.simpleicons.org/readthedocs/8CA1AF" width="50" height="50" alt="Get Next Line" style="margin-bottom: 8px;"><br>
             <strong>Get Next Line</strong><br>
             <span style="color: #58a6ff;">100/100</span>
