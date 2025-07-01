@@ -182,7 +182,7 @@
     </a>
   </div>
   <div style="text-align: center; width: 120px;">
-    <a href="https://github.com/Iportill2/minishell" title="Minishell">
+    <a href="https://github.com/Iportill2/minishell-main" title="Minishell">
       <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="50" height="50" alt="Minishell" style="margin-bottom: 8px;"><br>
       <strong>Minishell</strong><br>
       <span style="color: #58a6ff;">101/125</span>
