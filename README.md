@@ -166,14 +166,7 @@
 </div>
 
 <h4>Network & System Projects</h4>
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <div style="text-align: center; width: 120px;">
-    <a href="https://github.com/Iportill2/Born2beroot" title="Born2beroot">
-      <img src="https://cdn.simpleicons.org/debian/A81D33" width="50" height="50" alt="Born2beroot" style="margin-bottom: 8px;"><br>
-      <strong>Born2beroot</strong><br>
-      <span style="color: #58a6ff;">103/125</span>
-    </a>
-  </div>
+
   <div style="text-align: center; width: 120px;">
     <a href="https://github.com/Iportill2/NetPractice" title="NetPractice">
       <img src="https://imgs.search.brave.com/ULBO7b1PKIYpxaCQAA5eGc70LaKk9pkAAlkaveTX9lA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/Y2l0eXBuZy5jb20v/cHVibGljL3VwbG9h/ZHMvcHJldmlldy93/ZWItcGFnZS1pbnRl/cm5ldC1uZXR3b3Jr/LWJsdWUtaWNvbi10/cmFuc3BhcmVudC1w/bmctNzAxNzUxNjk0/OTc0MzQwdDI2bGV6/c2FzYy5wbmc" width="50" height="50" alt="NetPractice" style="margin-bottom: 8px;"><br>
@@ -190,25 +183,7 @@
   </div>
 </div>
 
-<h4>Graphics Projects (C / MLX)</h4>
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    <div style="text-align: center; width: 120px;">
-        <a href="https://github.com/Iportill2/so_long" title="So Long">
-          <img src="https://i.blogs.es/51ee9f/the-legend-of-zelda-nes/450_1000.jpg" width="50" height="50" alt="So Long" style="margin-bottom: 8px;"><br>
-          <strong>So Long</strong><br>
-          <span style="color: #58a6ff;">124/125</span>
-        </a>
-      </div>
-    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-      <div style="text-align: center; width: 120px;">
-        <a href="https://github.com/Iportill2/cub3d" title="Cub3D">
-          <img src="https://user-images.githubusercontent.com/93100775/215516735-f8ce45e1-cb8a-48fb-bb8f-835a197ff825.png" width="50" height="50" alt="Cub3D" style="margin-bottom: 8px;"><br>
-          <strong>Cub3D</strong><br>
-          <span style="color: #58a6ff;">105/125</span>
-        </a>
-      </div>
-    </div>
-</div>
+
 
 <h4>Web Projects</h4>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
