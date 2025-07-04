@@ -13,12 +13,10 @@
   <li>🔗 <a href="https://www.linkedin.com/in/iker-portillo/">LinkedIn</a> | <a href="https://github.com/Iportill2">GitHub</a></li>
 </ul>
 
-
 <hr>
   <p align="center">
       <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/iportill?1337Badge=off&UM6P=off" alt="iportill's 42 stats" /></a>
     </p>
-
 
 <h3>🛠️ Tech Stack</h3>
 
@@ -41,7 +39,20 @@
 
 <hr>
 
-<h3>🚀 42 Common Core Projects</h3>
+<h3>🚀 Outer Core Projects</h3>
+
+<h4>Machine Learning & AI Projects</h4>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <div style="text-align: center; width: 120px;">
+    <a href="https://github.com/Iportill2/ft_linear_regression" title="ft_linear_regression">
+      <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="50" height="50" alt="ft_linear_regression" style="margin-bottom: 8px;"><br>
+      <strong>ft_linear_regression</strong><br>
+      <span style="color: #f85149;">🚧 In Progress</span>
+    </a>
+  </div>
+</div>
+
+<h3>🎓 42 Common Core Projects</h3>
 
 <h4>C Projects</h4>
  <div >  
@@ -183,8 +194,6 @@
   </div>
 </div>
 
-
-
 <h4>Web Projects</h4>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <div style="text-align: center; width: 120px;">
@@ -209,8 +218,6 @@
     </a>
   </div>
 </div>
-
-
 
 <hr>
 
