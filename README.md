@@ -68,7 +68,7 @@
           </a>
         </div>
         <div style="text-align: center; width: 120px;">
-          <a href="https://github.com/Iportill2/push_swap" title="Push Swap">
+          <a href="https://github.com/Iportill2/push-swap" title="Push Swap">
             <img src="https://media.licdn.com/dms/image/v2/C5612AQGNzar_QlAhWw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1582236773808?e=2147483647&v=beta&t=JmQzXS59yQuMWFDvrKYfdeczaDh0PticJwvn0kw-rSg" width="50" height="50" alt="Push Swap" style="margin-bottom: 8px;"><br>
             <strong>Push Swap</strong><br>
             <span style="color: #58a6ff;">100/100</span>
