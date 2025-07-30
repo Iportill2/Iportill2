@@ -45,7 +45,7 @@
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <div style="text-align: center; width: 120px;">
     <a href="https://github.com/Iportill2/ft_linear_regression" title="ft_linear_regression">
-      <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="50" height="50" alt="ft_linear_regression" style="margin-bottom: 8px;"><br>
+      <img src="[https://cdn.simpleicons.org/tensorflow/FF6F00](https://camo.githubusercontent.com/8c7ab647918b6cbd9bdec55e67e35a5bd31167dce50360465c172dbfdfe0c8ea/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f707974686f6e2f707974686f6e2d706c61696e2e737667)" width="50" height="50" alt="ft_linear_regression" style="margin-bottom: 8px;"><br>
       <strong>ft_linear_regression</strong><br>
       <span style="color: #f85149;"></span>
     </a>
@@ -55,7 +55,7 @@
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <div style="text-align: center; width: 120px;">
     <a href="https://github.com/Iportill2/dslr" title="dslr">
-      <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="50" height="50" alt="dslr" style="margin-bottom: 8px;"><br>
+      <img src="[https://cdn.simpleicons.org/tensorflow/FF6F00](https://camo.githubusercontent.com/8c7ab647918b6cbd9bdec55e67e35a5bd31167dce50360465c172dbfdfe0c8ea/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f707974686f6e2f707974686f6e2d706c61696e2e737667)" width="50" height="50" alt="dslr" style="margin-bottom: 8px;"><br>
       <strong>dslr</strong><br>
       <span style="color: #f85149;">🚧 In Progress</span>
     </a>
