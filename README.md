@@ -1,13 +1,13 @@
 <hr>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&height=120&lines=Hi+there!+I'm+Iker+%F0%9F%91%8B;AI+focused+developer+from+Bilbao;42+Urduliz+graduate+%F0%9F%8E%93;C%2C+Python+%26+Low-Level+enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&height=120&lines=Hi+there!+I'm+Iker+%F0%9F%91%8B;AI+focused+developer+from+Bilbao;42+Urduliz+graduate+%F0%9F%8E%93;C%2C+Spring+Boot+%26+Low-Level+enthusiast" alt="Typing SVG" />
 </p>
 
 <h3>🧠 About Me</h3>
 <ul>
   <li>🎓 <strong>Completed</strong> 42 Common Core (Piscine included)</li>
   <li>🤖 Focused on <strong>AI, neural networks, ML & low-level systems</strong></li>
-  <li>🧰 Working mainly in <strong>C, C++, Python, Linux</strong></li>
+  <li>🧰 Working mainly in <strong>C, C++, Spring boot, Linux</strong></li>
   <li>💡 Passionate about <strong>problem solving and optimization</strong></li>
   <li>📫 Contact: iportill@student.42urduliz.com</li>
   <li>🔗 <a href="https://www.linkedin.com/in/iker-portillo/">LinkedIn</a> | <a href="https://github.com/Iportill2">GitHub</a></li>
