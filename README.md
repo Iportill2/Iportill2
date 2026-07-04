@@ -22,7 +22,7 @@
 
 <h4>Languages, Libraries and Frameworks</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,bootstrap,wordpress,php,spring,spring-boot" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,spring,python,js,html,css,bootstrap,wordpress,php" />
   <img src="https://cdn.simpleicons.org/drupal/0678BE" height="40" alt="Drupal" />
 </p>
 
