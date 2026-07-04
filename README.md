@@ -6,7 +6,7 @@
 <h3>🧠 About Me</h3>
 <ul>
   <li>🎓 <strong>Completed</strong> 42 Common Core (Piscine included)</li>
-  <li>🤖 Focused on <strong>AI, neural networks, ML & low-level systems</strong></li>
+  <li>🤖 Focused on <strong>Spring Boot/ Java developemt</strong></li>
   <li>🧰 Working mainly in <strong>C, C++, Spring boot, Linux</strong></li>
   <li>💡 Passionate about <strong>problem solving and optimization</strong></li>
   <li>📫 Contact: iportill@student.42urduliz.com</li>
