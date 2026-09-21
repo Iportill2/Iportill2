@@ -40,7 +40,17 @@
 <hr>
 
 <hr>
+<h3>☕ Java Projects</h3>
 
+<table> <tr>
+
+<td align="center" width="180"> <a href="https://github.com/Iportill2/SpringBoot-Docker" title="SpringBoot-Docker"> <img src="https://cdn.simpleicons.org/spring/6DB33F" width="60" height="60" alt="Spring Boot"><br> <strong>SpringBoot-Docker</strong><br> <sub>Spring Boot · Hibernate · REST · Docker</sub> </a> </td>
+
+<td align="center" width="180"> <a href="https://github.com/Iportill2/Springboot-event-driven-microservices" title="Springboot Event Driven Microservices"> <img src="https://cdn.simpleicons.org/spring/6DB33F" width="60" height="60" alt="Spring Boot"><br> <strong>Event-Driven Microservices</strong><br> <sub>Spring Boot · Microservices</sub> </a> </td>
+
+</tr> </table>
+
+<hr>
 <h3>🚀 Outer Core Projects</h3>
 
 <h4>🤖 Machine Learning & AI Projects</h4>
